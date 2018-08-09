@@ -1,4 +1,4 @@
-h1. Sprinb Boot Application with Maven as dependency manager
+## Sprinb Boot Application with Maven as dependency manager
 
 To run the project:
 
